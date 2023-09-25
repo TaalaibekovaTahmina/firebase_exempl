@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827725604702",
+    "project_id": "flesh-chat-93dc3",
+    "storage_bucket": "flesh-chat-93dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827725604702:android:7c7186afd8d06afeb291cf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_exempl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsl0B6DuZBq7xBQXAgqh7g-3Iol-_jALI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
